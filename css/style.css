@@ -1,0 +1,132 @@
+body {
+  margin: 50px;
+}
+
+h3 {
+  text-align: center;
+}
+
+section {
+  margin-top: 40px;
+}
+
+#stackers div {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  margin: 0 auto;
+}
+
+.r-1 {
+  position: relative;
+  right: 150px;
+}
+
+.r-3 {
+  position: relative;
+  left: 150px;
+}
+
+
+
+#mirror div {
+  margin: 0 auto;
+}
+
+.s-1 {
+  width: 300px;
+  height: 300px;
+  border: 1px solid blue;
+}
+
+.s-2 {
+  width: 200px;
+  height: 200px;
+  border: 1px solid blue;
+  position: relative;
+  top: 50px;
+}
+
+.s-3 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  position: relative;
+  top: 50px;
+}
+
+.s-4 {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+  position: relative;
+  top: 25px;
+}
+
+
+#skinny div {
+  margin: 0 auto;
+}
+
+.skinny-top {
+  width: 300px;
+  height: 50px;
+  border: 1px solid blue;
+}
+
+.middle {
+  width: 200px;
+  height: 200px;
+  border: 1px solid blue;
+}
+
+.skinny-btm {
+  width: 300px;
+  height: 50px;
+  border: 1px solid blue;
+}
+
+#absolute div {
+    margin: 0 auto;
+}
+
+.big-box {
+  width: 400px;
+  height: 300px;
+  border: 1px solid blue;
+}
+
+.little-box {
+  width: 50px;
+  height: 50px;
+  border: 1px solid blue;
+}
+
+.one {
+  position: relative;
+  right: 175px;
+}
+
+.two {
+  position: relative;
+  bottom: 52px;
+  left: 175px;
+}
+
+.three {
+  position: relative;
+  top: 20px;
+
+}
+
+.four {
+  position: relative;
+  top: 92px;
+  right: 175px;
+}
+
+.five {
+  position: relative;
+  top: 40px;
+  left: 175px;
+}
